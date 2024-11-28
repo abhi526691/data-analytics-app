@@ -3,8 +3,8 @@ import pandas as pd
 
 def run_analysis():
     # Load data
-    data = pd.read_csv('data/hw_200.csv')
-    print("hgscvhcdvhcv", data.columns)
+    # data = pd.read_csv('data/hw_200.csv')
+    # print("hgscvhcdvhcv", data.columns)
     # Perform analysis (e.g., calculate mean)
     # height_mean = data['Height(Inches)'].mean()
     # weight_mean = data['Weight(Pounds)'].mean()
